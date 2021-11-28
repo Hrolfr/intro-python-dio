@@ -1,0 +1,20 @@
+2 - O que são variáveis e como manipulá-las através de
+operadores aritméticos e interação com o usuário
+
+O que são variáveis e como manipulá-las através de
+operadores aritméticos e interação com o usuário:
+
+Obs: não consigo adicionar um texto com um inteiro, então:
+print('soma:' + soma)me taca um erro.
+Se eu quiser colocar os 2 juntos, devo:
+print ('soma:' + str(soma))
+
+ele concatena, e então eu recebo um: soma:16
+
+# é usado para comentar
+
+No type da divisao, ele me dá float, que no caso, são
+números decimais.Se eu quiser arredondar, posso:
+print (int(divisao)
+
+CNTRL + BARRA comenta várias linhas selecionadas
