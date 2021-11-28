@@ -18,3 +18,5 @@ números decimais.Se eu quiser arredondar, posso:
 print (int(divisao)
 
 CNTRL + BARRA comenta várias linhas selecionadas
+
+11min57s
