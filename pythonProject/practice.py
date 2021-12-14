@@ -90,9 +90,57 @@
 #     print('Du bist klug')
 
 
-c = 4 * 9 + 2
-if c > 32:
-    print('cool')
-else:
-    print('shut up bitch')
+# c = 4 * 9 + 2
+# if c > 32:
+#     print('cool')
+# else:
+#     print('shut up bitch')
+
+#//////////////////////////////////////////////////////////só a prática (como sempre)
+
+# a = 3
+# b = 2
+# soma = a + b
+# print('A soma é:' + str(soma))
+
+# a = 1
+# b = 2
+# c = 0
+# conta = a + b * c
+# print(conta) ele fez 2 * 0 + 1
+
+# a = 1
+# b = 2
+# c = 0
+# conta = (a + b) * c
+#print(conta) deu 0
+
+# car = 'legal'
+# if car == 'legal' :
+#     print('nice')
+# else :
+#     print('bão')
+
+# car = 'chevette'
+# if car == 'fusca' :
+#     print('bonitin')
+# else :
+#     print('aaa é qual então? ')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
