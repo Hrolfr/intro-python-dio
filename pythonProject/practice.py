@@ -127,9 +127,21 @@
 # else :
 #     print('aaa é qual então? ')
 
+# zimmer = 1
+# while zimmer == 1 :
+#     print('stonks')
 
+#Mais conceitos, pois entendi os de cima bem
 
+#for - measuring strings
 
+# words = ['cat', 'window', 'likes']
+# for w in words:
+#      print (w)
+#
+# nomes = ['Pedro', 'João', 'Leticia']
+# for n in nomes:
+#      print(n)
 
 
 
