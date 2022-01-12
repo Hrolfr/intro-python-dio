@@ -240,6 +240,15 @@
 # print(div)
 # 12 yeee
 
+#Sobre prioridade de operações
+
+# N = 1 * 4 + 15
+# print(N)
+#multiplicação primeiro, deu 19
+
+# N = 1 * (2 + 15)
+# print(N)
+
 #Tá ótimo fia! Próxima parte
 
 
