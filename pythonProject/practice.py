@@ -207,6 +207,39 @@
 # divisao = A / B
 # print("Deu:" + str(divisao))
 
+#Detalhes adicionais
+# A = 500
+# B = 3
+# divisao = A // B
+# print(divisao) não me devolve o tal do resto do float
+
+# A = 5 * 3 + 2
+# print(A) nesse ele prioriza a multiplicação mesmo sem eu dizer, e me devolve 17
+#
+# A = 5 * (3 + 2)
+# print(A) nesse a prioridade é a adição, então ele me dá 25
+
+#Se eu esqueci, não treinei o suficiente, bora!
+
+# A = 300
+# B = 2
+# div = A // B
+# print(div)
+# deu 150 bem safe
+
+
+# B = 150000
+# C = 50
+# div = B // C
+# print(div)
+# como o planejado
+
+# caixas = 300
+# pedidos = 25
+# div = caixas //pedidos
+# print(div)
+# 12 yeee
+
 #Tá ótimo fia! Próxima parte
 
 
