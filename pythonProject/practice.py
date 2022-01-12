@@ -195,7 +195,19 @@
 # print( "Deu: " + str(sub))
 # deu 11.5
 
+#Multiplicacao
+# A = 2.25
+# B = 4
+# multiplicacao = A * B
+# print("Deu:" + str(multiplicacao))
 
+#Divisao
+# A = 2.25
+# B = 4
+# divisao = A / B
+# print("Deu:" + str(divisao))
+
+#Tá ótimo fia! Próxima parte
 
 
 
