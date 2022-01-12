@@ -72,8 +72,18 @@
 # print(katze[6]) fiz certin
 
 #Problema
-arr = [1,2,3,4,5,6]
-print(arr[5.5])
+# arr = [1,2,3,4,5,6]
+# print(arr[5.5])
+
+# arr = [1.0 ,2.0, 3.0, 4.0, 5.0, 6.0]
+# print(arr[5])
+
+# arr = ['javadarte', 'cobra', 'massa']
+# print(arr[2])
+#
+# arr = [javadarte, cobra, massa]
+# print(arr[2])
+# NameError: name 'javadarte' is not defined
 
 #detalhe
 # A = 13.90
@@ -82,3 +92,37 @@ print(arr[5.5])
 # print( "Deu: " + str(soma))
 # #Obs: se vc colocar 13,90 ele vai entender como um array, retornando: Deu: (13, 90, 2, 40). Se não for array
 # #Mas sim número decimal, use o ponto para separar as casas decimais, bem.
+
+#If e else
+
+# batata = 'saborosa'
+# if batata == 'horrível':
+#    print('credo!')
+# else:
+#      print('Que delicia!')
+
+# batata = 'a'
+# if batata == 'horrível':
+#    print('credo!')
+# else:
+#      print('Que delicia!')
+
+batata = 'horrível'
+if batata == 'horrível':
+   print('credo!')
+else:
+     print('Que delicia!')
+
+#https://www.devschannel.com/logica-de-programacao/operadores veja depois
+
+
+
+
+
+
+
+
+
+
+
+
