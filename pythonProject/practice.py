@@ -143,12 +143,57 @@
 # for n in nomes:
 #      print(n)
 
+# Repetindo tudo que há fiz para relembrar. dia 12/01/2022
 
+#operações normais
 
+#soma
+# S = 2
+# T = 3
+# multiplicacao = 2 + 3
+# print (multiplicacao)
 
+#subração
+# S = 6
+# R = 6
+# subtracao = S - R
+# print(subtracao)
 
+#multiplicação
+# A = 15
+# B = 3
+# multiplicacao = A * B
+# print(multiplicacao)
 
+#Divisão
+# A = 25
+# B = 5
+# divisao = A / B
+# print(divisao)
+# me dá 5.0
 
+#Resto
+# A = 25
+# B = 5
+# resto = A % B
+# print(resto)
+
+#Operações com strings
+
+#Soma
+# A = 13.90
+# B = 2.40
+# soma = A + B
+# print( "Deu: " + str(soma))
+# #Obs: se vc colocar 13,90 ele vai entender como um array, retornando: Deu: (13, 90, 2, 40). Se não for array
+# #Mas sim número decimal, use o ponto para separar as casas decimais, bem.
+
+#Subtração
+# A = 13.90
+# B = 2.40
+# sub = A - B
+# print( "Deu: " + str(sub))
+# deu 11.5
 
 
 
