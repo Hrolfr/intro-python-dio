@@ -251,6 +251,61 @@
 
 #Tá ótimo fia! Próxima parte
 
+#20/01 revendo
+
+# a = 1200
+# b = 300
+# divisao = a // b
+# print (divisao)
+
+# a = 12.5
+# b = 3
+# divisao = a // b
+# print (divisao)
+# como o esperado
+
+# Entendendo elif
+
+# cor = 2
+#
+# if cor == 3:
+#     print('Nice, another color set selected')
+# elif cor == 1:
+#     print('As default')
+# else:
+#     print('Uh...okay then')
+# Clean as water
+
+
+# nummer = 'NaN'
+# nummer = 3
+# nummer = 'ost'
+# if nummer == 'NaN':
+#     print('cool')
+# elif nummer == 3:
+#     print('alright')
+# else:
+#     print('anyways...')
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
