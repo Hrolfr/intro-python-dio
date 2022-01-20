@@ -317,9 +317,17 @@
 
 #Boa, finalmente eu entendi
 
+# numero = [1, 2, 3, 4]
+# for n in numero:
+#     print(n)
 
-
-
+#parei aqui. faça funcionar
+# words = ['cat', 'window', 'defenestrate']
+# for w in words[:]:
+#   if len(w) > 6:
+#   words.insert(0, w)
+#  print(n)
+#
 
 
 
