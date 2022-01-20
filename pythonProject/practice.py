@@ -298,9 +298,17 @@
 
 #laços de repetição: for
 
+#Exemplo base
+# nomes = ['Pedro', 'João', 'Leticia']
+# for n in nomes:
+#      print(n)
+#Ok
 
-
-
+# nomesGatos = ['Al', 'Bella', 'Knuckles', 'Botinhas']
+# for n in nomesGatos:
+#     print(n)
+# else:
+#     print('Os nomes dos meus gatos são esses')
 
 
 
