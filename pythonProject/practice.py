@@ -303,16 +303,19 @@
 # for n in nomes:
 #      print(n)
 #Ok
-
+#
 # nomesGatos = ['Al', 'Bella', 'Knuckles', 'Botinhas']
 # for n in nomesGatos:
-#     print(n)
+#      print(n, len(n))
 # else:
-#     print('Os nomes dos meus gatos são esses')
+#      print('Os nomes dos meus gatos são esses')
+#FUNCIONOU WEEEEE
 
+# Zimmer = [1, 2, 3, 4, 5, 6, 7, 8]
+# for i in Zimmer:
+#     print(i)
 
-
-
+#Boa, finalmente eu entendi
 
 
 
