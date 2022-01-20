@@ -287,6 +287,18 @@
 # else:
 #     print('anyways...')
 
+# catNummer = 0
+#
+# if catNummer == 1:
+#     print('OWWWW which is your cats name?')
+# elif catNummer > 1:
+#     print('Woooow! How much do you have, then?')
+# elif catNummer == 0:
+#     print('Aaaa..but why? Dont you like them?')
+
+#laços de repetição: for
+
+
 
 
 
