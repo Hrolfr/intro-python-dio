@@ -399,3 +399,15 @@
 #devolveu 360.0
 
 
+# a = 144
+# b = 2.5
+# sub = a - b
+# print(sub)
+# devolveu 141.5
+
+
+# a = 144
+# b = 2.5
+# soma = a + b
+# print(soma)
+# devolveu 146.5
