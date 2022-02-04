@@ -597,3 +597,18 @@
 #deu -10, -60, -110, -160
 
 #se eu entendi algo da parte dos números negativos? Mas nem fudendo.
+
+# a = ['Mary', 'had', 'a', 'little', 'lamb']
+# for i in range(len(a)):
+#     print(i, a[i])
+#     0 Mary
+#     1 had
+#     2 a
+#     3 little
+#     4 lamb
+
+# a = ['Mary', 'had', 'a', 'little', 'lamb']
+# for i in range(len(a)):
+#     print(range(10))
+# wtf??????
+
