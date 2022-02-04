@@ -378,13 +378,11 @@
 # print(soma)
 # devolve o array (2, 5, 2, 5)
 
-
 # a = 144
 # b = 2.5
 # div = a / b
 # print(div)
 # devolveu 57.6
-
 
 # a = 144
 # b = 2.5
@@ -398,16 +396,57 @@
 # print(mult)
 #devolveu 360.0
 
-
 # a = 144
 # b = 2.5
 # sub = a - b
 # print(sub)
 # devolveu 141.5
 
-
 # a = 144
 # b = 2.5
 # soma = a + b
 # print(soma)
 # devolveu 146.5
+
+# a = 144
+# b = 2.5
+# resto = a % b
+# print(resto)
+# devolveu 1.5
+
+#0.2 - prioridade de operações
+
+# a = 500
+# b = 150
+# c = 25
+# d = 0
+# oper = a + b / c + d
+# print(oper)
+# #deu 506.0
+
+# a = 500
+# b = 150
+# c = 25
+# d = 0
+# oper = a + b // c + d
+# print(oper)
+#deu 506
+
+
+
+
+
+
+
+
+
+
+
+
+
+#parte 1 - array
+#parte 2 - if, else e elif
+
+
+
+
