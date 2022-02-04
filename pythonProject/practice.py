@@ -584,6 +584,16 @@
 #  print(i)
 #trás 0, 3, 6, 9
 
-for i in range(-10, -100, -30):
- print(i)
-  #-10, -40, -70
+# for i in range(-10, -100, -30):
+#  print(i)
+#-10, -40, -70
+
+# for i in range(-10, -100, -50):
+#      print(i)
+#deu -10, -60, -
+
+# for i in range(-10, -200, -50):
+#     print(i)
+#deu -10, -60, -110, -160
+
+
