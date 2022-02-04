@@ -560,9 +560,24 @@
 # for n in numbers:
 #     print(n)
 
+#itens novos
 
+#range()
 
+#exemplo 1
+# for i in range(5):
+#     print(i)
 
+# for i in range(10):
+#    print(i)
+# do 0 até o 9
 
+# for i in range(5, 10):
+#     print(i)
+# vai do 5 até o 9
+
+# for i in range(5, 11):
+#     print(i)
+# vai do 5 até o 10
 
 
