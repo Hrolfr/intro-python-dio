@@ -379,3 +379,23 @@
 # devolve o array (2, 5, 2, 5)
 
 
+# a = 144
+# b = 2.5
+# div = a / b
+# print(div)
+# devolveu 57.6
+
+
+# a = 144
+# b = 2.5
+# div = a // b
+# print(div)
+# devolveu 57.0
+
+# a = 144
+# b = 2.5
+# mult = a * b
+# print(mult)
+#devolveu 360.0
+
+
