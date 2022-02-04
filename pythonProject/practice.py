@@ -456,15 +456,45 @@
 # print(oper)
 # deu 506.0
 
-
-
-
-
-
-
-
 #parte 1 - array
+
+#list exemplos
+# arr = [0, 2, 4, 6, 8]
+# print(arr[2])
+#1
+# arr1 =  [0, 2, 4, 6, 8]
+# print(arr[4])
+#2
+# katze = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+# print(katze[6]) fiz certin
+
+# heroi = ['batman','superman', 'lanterna-verde', 'arqueiro-verde', 'flash']
+# print(heroi[4])
+#me devolveu o flash
+#
+# heroi = ['batman','superman', 'lanterna-verde', 'arqueiro-verde', 'flash']
+# print(heroi[2])
+#lanterna verde
+#
+# heroi = ['batman','superman', 'lanterna-verde', 'arqueiro-verde', 'flash']
+# print(heroi[1])
+#superman
+
+# arr = [1, 3, 6, 10, 15, 21, 27, 35]
+# print(arr[5])
+
+# gatos =  ['branco', 'amarelo', 'cinza', 'siames', 'preto', 'tres cores']
+# print(gatos[3])
+
 #parte 2 - if, else e elif
+
+#parte 3 - for
+
+
+
+
+
+
 
 
 
