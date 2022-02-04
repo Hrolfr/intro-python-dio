@@ -520,16 +520,45 @@
 #      print('qual entao?')
 # else:
 #      print('esse é bom também')
-# Obs: se eu usar o != (no elif) e depois o else, ele sempre vai preferer a opção do elif
+# Obs: se eu usar o != (no elif) e depois o else, ele sempre vai preferir a opção do elif
 
 #parte 3 - for
 
 #Exemplo base
 # nomes = ['Pedro', 'João', 'Leticia']
 # for n in nomes:
+#       print(n)
+
+# numero = [1, 2, 3, 4, 5, 6]
+# for n in numero:
 #      print(n)
 
+# nomesGatos = ['Al', 'Bella', 'Knuckles', 'Botinhas']
+# for n in nomesGatos:
+#        print(n, len(n))
+# else:
+#        print('Os nomes dos meus gatos são esses')
 
+# Zimmer = [1, 2, 3, 4, 5, 6, 7, 8]
+# for i in Zimmer:
+#     print(i)
+
+# numero = [1, 2, 3, 4]
+# for n in numero:
+#     print(n)
+
+# words = ['cat', 'window', 'defenestrate']
+# for w in words:
+#   print(w)
+
+# words = ['cat', 'window', 'defenestrate']
+# for w in words:
+#     print(w, len(w))
+#wtf, funcionou
+
+# numbers = [12, 5, 7]
+# for n in numbers:
+#     print(n)
 
 
 
