@@ -432,8 +432,21 @@
 # print(oper)
 #deu 506
 
+# a = 500
+# b = 150
+# c = 25
+# d = 0
+# oper = (a + b) / c + d
+# print(oper)
+# deu 26.0
 
-
+# a = 500
+# b = 150
+# c = 25
+# d = 0
+# oper = (a + b) // c + d
+# print(oper)
+# deu 26
 
 
 
