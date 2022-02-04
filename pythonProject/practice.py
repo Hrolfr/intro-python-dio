@@ -488,8 +488,46 @@
 
 #parte 2 - if, else e elif
 
+#exemplo meu
+# nummer = 'NaN'
+# nummer = 3
+# nummer = 'ost'
+# if nummer == 'NaN':
+#     print('cool')
+# elif nummer == 3:
+#     print('alright')
+# else:
+#     print('anyways...')
+
+# cat = 'grey'
+# if cat == 'grey':
+#     print('Love them')
+# elif cat != 'grey' :
+#     print('Which colour he has?')
+# else:
+#     print('Do not like cats?')
+
+# carro = 'opalao'
+# if carro == 'opalao':
+#     print('chique')
+# elif carro != 'opalao':
+#     print('qual entao?')
+
+# carro = 'grrr'
+# if carro == 'opalao':
+#      print('chique')
+# elif carro == 'fusquinha':
+#      print('qual entao?')
+# else:
+#      print('esse é bom também')
+# Obs: se eu usar o != (no elif) e depois o else, ele sempre vai preferer a opção do elif
+
 #parte 3 - for
 
+#Exemplo base
+# nomes = ['Pedro', 'João', 'Leticia']
+# for n in nomes:
+#      print(n)
 
 
 
