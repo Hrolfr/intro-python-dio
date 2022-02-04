@@ -596,4 +596,4 @@
 #     print(i)
 #deu -10, -60, -110, -160
 
-
+#se eu entendi algo da parte dos números negativos? Mas nem fudendo.
