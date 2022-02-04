@@ -329,15 +329,53 @@
 #  print(n)
 #
 
+#primeiro treino do ano, dia 04/02/2022
+#Refazendo os exemplos iee
 
+#parte 0 - Operações
 
+# a = 2
+# b = 2
+# soma = a + b
+# print(soma)
 
+# a = 2
+# b = 2
+# sub = a - b
+# print(sub)
 
+# a = 2
+# b = 2
+# mult = a * b
+# print(mult)
 
+# a = 2
+# b = 2
+# div1 = a / b
+# print(div1)
 
+# a = 2
+# b = 2
+# div2 = a // b
+# print(div2)
 
+# a = 2
+# b = 2
+# resto = a % b
+# print(resto)
 
+#0.1
 
+# a = 2.5
+# b = 2.5
+# soma = a + b
+# print(soma)
+# devolve 5.0
 
+# a = 2,5
+# b = 2,5
+# soma = a + b
+# print(soma)
+# devolve o array (2, 5, 2, 5)
 
 
