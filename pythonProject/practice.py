@@ -580,4 +580,10 @@
 #     print(i)
 # vai do 5 até o 10
 
+# for i in range(0, 10, 3):
+#  print(i)
+#trás 0, 3, 6, 9
 
+for i in range(-10, -100, -30):
+ print(i)
+  #-10, -40, -70
