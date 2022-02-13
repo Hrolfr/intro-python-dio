@@ -762,6 +762,10 @@
 
 # a = ['You', 'are', 'ugly', 'as', 'hell']
 # for i in a:
-#      print(a, len(a))
+#      print(i, len(a))
 # dessa forma, gera: "['You', 'are', 'ugly', 'as', 'hell'] 5" 5 vezes. Para dar certo, devo:
 
+# a = ['You', 'are', 'ugly', 'as', 'hell']
+# for i in range(len(a)):
+#       print(i, a[i])
+# assim ele numera cada palavra
