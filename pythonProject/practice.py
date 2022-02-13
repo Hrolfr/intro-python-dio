@@ -596,7 +596,7 @@
 #     print(i)
 #deu -10, -60, -110, -160
 
-#se eu entendi algo da parte dos números negativos? Mas nem fudendo.
+#agora entendi certinho, era relativo a números aleatórios, assim como dizia na documentação.
 
 # a = ['Mary', 'had', 'a', 'little', 'lamb']
 # for i in range(len(a)):
@@ -612,3 +612,31 @@
 #     print(range(10))
 # wtf??????
 
+#dia 13/02/2022
+
+#revisando o for
+
+# words = ['cat', 'window', 'defenestrate']
+# for w in words:
+#   print(w)
+
+# words = ['cat', 'window', 'defenestrate']
+# for w in words:
+#     print(w, len(w))
+#wtf, funcionou
+
+# words = ['viking', 'axe', 'sword', 'shield']
+# for i in words:
+#      print(i)
+
+# words = ['viking', 'axe', 'sword', 'shield']
+# for i in words:
+#      print(i, len(i))
+
+# words = ['kid', 'candy', 'toys', 'colours']
+# for w in words:
+#     print(w)
+
+# words = ['kid', 'candy', 'toys', 'colours']
+# for w in words:
+#     print(w, len(w))
