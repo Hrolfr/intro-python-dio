@@ -774,3 +774,10 @@
 # for i in range(len(a)):
 #     print(i, a[i])
 # contou certinho as 18 palavras! Que lindo!
+
+#detalhe divertido com o range tbm: dá pra por o range com o list, mas ainda n entendi o role.
+
+
+
+
+
