@@ -656,8 +656,51 @@
 # oc2 = ['bob esponja', 'patrick', 'lula molusco', 'seu cirigueijo'], ['gary', 'sardinhas', 'mae do bob']
 # for o in oc2:
 #     print(o, len(o))
-#o curioso é que ele não conta as palavras do array, mas sim as palavras de ambos
+#o curioso é que ele não conta as letras do array, mas sim as palavras de ambos
 
-oc2 = ['bob esponja', 'patrick', 'lula molusco', 'seu cirigueijo'], ['gary', 'sardinhas', 'mae do bob']
-for o in oc2:
-    print(o, len(o))
+# oc2 = ['bob esponja', 'patrick', 'lula molusco', 'seu cirigueijo'], ['gary', 'sardinhas', 'mae do bob']
+# for o in oc2:
+#     print(o, len(o))
+
+#voltando range()
+
+#exemplos base
+
+# for i in range(5):
+#     print(i)
+
+# for i in range(5, 11):
+#     print(i)
+
+# for i in range(0, 10, 3):
+#  print(i)
+
+# a = ['Mary', 'had', 'a', 'little', 'lamb']
+# for i in range(len(a)):
+#     print(i, a[i])
+#     0 Mary
+#     1 had
+#     2 a
+#     3 little
+#     4 lamb
+
+# a = ['Mary', 'had', 'a', 'little', 'lamb']
+# for i in range(len(a)):
+#     print(range(10))
+
+#experimentos
+
+# for i in range(9):
+#     print(i)
+#do 0 até o 8
+
+# for i in range(4):
+#     print(i)
+
+# for i in range(1, 200):
+#     print(i)
+# do 1 até 199
+
+# for i in range(2, 14):
+#     print(i)
+# do 2 até o 13
