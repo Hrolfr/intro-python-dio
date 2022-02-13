@@ -777,7 +777,7 @@
 
 #detalhe divertido com o range tbm: dá pra por o range com o list, mas ainda n entendi o role.
 
-
+#fui só até o estudo do range nesse
 
 
 
