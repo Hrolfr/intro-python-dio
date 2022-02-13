@@ -675,6 +675,10 @@
 # for i in range(0, 10, 3):
 #  print(i)
 
+# for i in range(-10, -100, -30):
+#  print(i)
+#-10, -40, -70
+
 # a = ['Mary', 'had', 'a', 'little', 'lamb']
 # for i in range(len(a)):
 #     print(i, a[i])
@@ -722,3 +726,13 @@
 # for i in range(0, 110, 10):
 #     print(i)
 
+# for i in range(-10, -100, -30):
+#   print(i)
+#-10, -40, -70
+
+# for i in range(-20, -100, -50):
+#     print(i)
+#-20, -70
+
+for i in range(-20, -200, -50):
+    print(i)
