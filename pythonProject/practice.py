@@ -709,3 +709,16 @@
 #     print(i)
 # faz a tabuada do 5 do 0 ao 45
 
+# for i in range(0, 55, 5):
+#     print(i)
+# vai do 0 até o 50
+
+# for i in range(0, 22, 2):
+#     print(i)
+
+# for i in range(0, 33, 3):
+#      print(i)
+
+# for i in range(0, 110, 10):
+#     print(i)
+
