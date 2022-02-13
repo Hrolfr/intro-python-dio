@@ -745,3 +745,23 @@
 # for i in range(-40, -200, -120):
 #     print(i)
 # gerou -40, -160
+
+# a = ['Mary', 'had', 'a', 'little', 'lamb']
+# for i in range(len(a)):
+#      print(i, a[i])
+#     0 Mary
+#     1 had
+#     2 a
+#     3 little
+#     4 lamb
+
+# a = ['Mary', 'had', 'a', 'little', 'lamb']
+# for i in range(len(a)):
+#     print(range(10))
+#funciona diferente
+
+# a = ['You', 'are', 'ugly', 'as', 'hell']
+# for i in a:
+#      print(a, len(a))
+# dessa forma, gera: "['You', 'are', 'ugly', 'as', 'hell'] 5" 5 vezes. Para dar certo, devo:
+
