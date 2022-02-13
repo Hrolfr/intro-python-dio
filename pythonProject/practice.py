@@ -734,5 +734,10 @@
 #     print(i)
 #-20, -70
 
-for i in range(-20, -200, -50):
-    print(i)
+# for i in range(-20, -200, -50):
+#     print(i)
+#gerou -20 -70 -120 -170
+
+# for i in range (-30, -300, -80):
+#     print(i)
+#gerou -30, -110, -190, -270
