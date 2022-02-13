@@ -769,3 +769,8 @@
 # for i in range(len(a)):
 #       print(i, a[i])
 # assim ele numera cada palavra
+
+# a = ['Lorem', 'ipsum', 'dolor', 'sit', 'amet', 'consectetur', 'adipiscing', 'elit', 'sed', 'do', 'eiusmod', 'tempor', 'incididunt', 'ut', 'labore', 'et', 'dolore', 'magna', 'aliqua']
+# for i in range(len(a)):
+#     print(i, a[i])
+# contou certinho as 18 palavras! Que lindo!
