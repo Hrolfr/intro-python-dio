@@ -741,3 +741,7 @@
 # for i in range (-30, -300, -80):
 #     print(i)
 #gerou -30, -110, -190, -270
+
+# for i in range(-40, -200, -120):
+#     print(i)
+# gerou -40, -160
