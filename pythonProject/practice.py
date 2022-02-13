@@ -640,3 +640,24 @@
 # words = ['kid', 'candy', 'toys', 'colours']
 # for w in words:
 #     print(w, len(w))
+
+# oc = ['bob esponja', 'patrick', 'lula molusco', 'seu cirigueijo']
+# for o in oc:
+#     print(o)
+
+# oc = ['bob esponja', 'patrick', 'lula molusco', 'seu cirigueijo']
+# for o in oc:
+#     print(o, len(o))
+
+# oc2 = ['bob esponja', 'patrick', 'lula molusco', 'seu cirigueijo'], ['gary', 'sardinhas', 'mae do bob']
+# for o in oc2:
+#     print(o)
+
+# oc2 = ['bob esponja', 'patrick', 'lula molusco', 'seu cirigueijo'], ['gary', 'sardinhas', 'mae do bob']
+# for o in oc2:
+#     print(o, len(o))
+#o curioso é que ele não conta as palavras do array, mas sim as palavras de ambos
+
+oc2 = ['bob esponja', 'patrick', 'lula molusco', 'seu cirigueijo'], ['gary', 'sardinhas', 'mae do bob']
+for o in oc2:
+    print(o, len(o))
