@@ -704,3 +704,8 @@
 # for i in range(2, 14):
 #     print(i)
 # do 2 até o 13
+
+# for i in range(0, 50, 5):
+#     print(i)
+# faz a tabuada do 5 do 0 ao 45
+
